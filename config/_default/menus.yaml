@@ -1,0 +1,81 @@
+leftnav:
+- identifier: 5e3e7c74-5a38-4d45-ad7d-78e7e1eaedb0
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 035994aa-68b0-4602-8ac5-cedd472369fa
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
+  name: 'Unit 1: Probability'
+  url: /pages/unit-1-probability
+  weight: 30
+- identifier: 9df38ae8-8eec-4d2f-b7b4-815ce150cde3
+  name: 'Class 1: Counting'
+  url: /pages/class-1-counting
+  weight: 40
+- identifier: 46c30d37-7fca-4bd6-9a53-cb110f972269
+  name: 'Class 2: Probability Basics'
+  url: /pages/class-2-probability-basics
+  weight: 50
+- identifier: 8a3d0781-0a48-4b02-b4ff-0d32d28b65c3
+  name: 'Class 3: Conditional Probability, Independence, Bayes Theorem'
+  url: /pages/class-3-conditional-probability-independence-bayes-theorem
+  weight: 60
+- identifier: 292aeda9-41c3-4564-8e4e-6d5b520817be
+  name: 'Class 4: Discrete Random Variables, Expected Value'
+  url: /pages/class-4-discrete-random-variables-expected-value
+  weight: 70
+- identifier: eaac4d85-5a08-4669-97eb-77690443503d
+  name: 'Class 5: Variance of Discrete Variables; Continuous Random Variables'
+  url: /pages/class-5-variance-of-discrete-variables-continuous-random-variables
+  weight: 80
+- identifier: 7d8482d3-43d4-4b77-b26f-88502e283313
+  name: 'Class 6: Continuous Random Variables: Expected Value and Variance; Histograms'
+  url: /pages/class-6-continuous-random-variables-expected-value-and-variance-histograms
+  weight: 90
+- identifier: 74a3de58-e4e8-4eae-8aef-497a93af2028
+  name: 'Class 7: Joint Distributions: Independence, Covariance and Correlation'
+  url: /pages/class-7-joint-distributions-independence-covariance-and-correlation
+  weight: 100
+- identifier: fc5d678a-adf8-48f2-b121-f94e2fd28699
+  name: 'Class 8: Exam 1 Review'
+  url: /pages/class-8-exam-1-review
+  weight: 110
+- identifier: 68048afa-26e2-428c-bf6f-d8afc30d8591
+  name: R Tutorial
+  url: /pages/r-tutorial
+  weight: 120
+- identifier: 3bbba20b-8672-4860-bd8e-7fb2bf959551
+  name: 'Studio 1: Birthday Matches'
+  url: /pages/studio-1-birthday-matches
+  weight: 130
+- identifier: 10608875-7568-495a-b18d-cde926f70ebc
+  name: Studio 2
+  url: /pages/studio-2
+  weight: 140
+- identifier: 3f2b3c6b-c3da-4b98-89d9-a6c97ae7a291
+  name: Studio 3
+  url: /pages/studio-3
+  weight: 150
+- identifier: ec1e33f0-a454-45c4-80ef-fb58703d8516
+  name: Studio 4
+  url: /pages/studio-4
+  weight: 160
+- identifier: 60b6afbc-30d9-4852-ad59-e669be63c8f1
+  name: Exam 1
+  url: /pages/exam-1
+  weight: 170
+- identifier: 2b028d93-8561-4c84-9ece-b01d0c4f191a
+  name: 'Unit 2: Statistics: Bayesian Inference'
+  url: /pages/unit-2-statistics-bayesian-inference
+  weight: 180
+- identifier: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
+  name: 'Unit 3: Statistics: Frequentist Inference: NHST'
+  url: /pages/unit-3-statistics-frequentist-inference-nhst
+  weight: 190
+- identifier: c87974e0-c253-4a50-8148-0b92730b0131
+  name: 'Unit 4: Statistics: Confidence Intervals; Regression'
+  url: /pages/unit-4-statistics-confidence-intervals-regression
+  weight: 200
