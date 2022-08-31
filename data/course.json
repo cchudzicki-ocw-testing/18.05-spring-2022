@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "introduction-to-probability-and-statistics"
+  },
+  "course_title": "Introduction to Probability and Statistics",
+  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.05",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "introduction-to-probability-and-statistics"
+  },
+  "learning_resource_types": [],
+  "site_uid": "5c8e7edf-85b3-4365-8a0c-ce24f816baca"
+}
