@@ -4,11 +4,21 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
-      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1"
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1",
+      "cc819e66-a330-43ea-8d9b-f64fed55a1f8"
     ],
     "website": "ocw-www"
   },
