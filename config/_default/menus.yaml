@@ -73,23 +73,28 @@ leftnav:
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-6-continuous-random-variables-expected-value-and-variance-histograms
   weight: 100
+- identifier: e729658e-8ea1-41db-87c3-ab5611b4075a
+  name: 'Class 6.2: Law of Large Numbers, Central Limit Theorem, and Histograms'
+  parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
+  url: /pages/class-62-law-of-large-numbers-central-limit-theorem-and-histograms
+  weight: 110
 - identifier: 74a3de58-e4e8-4eae-8aef-497a93af2028
   name: 'Class 7: Joint Distributions: Independence, Covariance and Correlation'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-7-joint-distributions-independence-covariance-and-correlation
-  weight: 110
+  weight: 120
 - identifier: ec1e33f0-a454-45c4-80ef-fb58703d8516
   name: Studio 4
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/studio-4
-  weight: 120
+  weight: 130
 - identifier: fc5d678a-adf8-48f2-b121-f94e2fd28699
   name: 'Class 8: Exam 1 Review'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-8-exam-1-review
-  weight: 130
+  weight: 140
 - identifier: 60b6afbc-30d9-4852-ad59-e669be63c8f1
   name: Exam 1
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/exam-1
-  weight: 140
+  weight: 150
