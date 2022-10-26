@@ -2,7 +2,7 @@
 content_type: page
 description: 'Class 1: Counting'
 draft: false
-title: 'Class 1: Counting'
+title: 'Class 1: Introduction to Probability and Statistics'
 uid: 9df38ae8-8eec-4d2f-b7b4-815ce150cde3
 ---
 Class 1 Lecture Slides: {{% resource_link "46efc7d2-a548-4a1b-9779-df11f3c842b6" "Introduction to Probability and Statistics (PDF)" %}}
