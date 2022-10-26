@@ -24,7 +24,7 @@ leftnav:
   url: /pages/unit-4-statistics-confidence-intervals-regression
   weight: 60
 - identifier: 9df38ae8-8eec-4d2f-b7b4-815ce150cde3
-  name: 'Class 1: Counting'
+  name: 'Class 1: Introduction to Probability and Statistics'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-1-counting
   weight: 10
