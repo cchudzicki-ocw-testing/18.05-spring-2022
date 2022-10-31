@@ -17,8 +17,8 @@ Reading Questions
 
 ### In Class
 
-Lecture Slides: Probability Basics (PDF)
+Lecture Slides: {{% resource_link "11101a10-3e20-442c-81fe-1b4ee03447e3" "Probability Basics (PDF)" %}}
 
-Problems (PDF)
+{{% resource_link "d9c43bf8-9d60-4c55-bea9-919d890bb00e" "Problems (PDF)" %}}
 
-Solutions (PDF)
+{{% resource_link "da37cc6d-1abd-457d-8601-88e4032bbe6c" "Solutions (PDF)" %}}
