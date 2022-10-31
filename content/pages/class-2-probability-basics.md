@@ -5,6 +5,8 @@ draft: false
 title: 'Topic 2: Probability Basics'
 uid: 46c30d37-7fca-4bd6-9a53-cb110f972269
 ---
+« {{% resource_link "9df38ae8-8eec-4d2f-b7b4-815ce150cde3" "Previous" %}} | {{% resource_link "68048afa-26e2-428c-bf6f-d8afc30d8591" "Next" %}} »
+
 ## Topic 2: Probability Basics
 
 ### Before Class
