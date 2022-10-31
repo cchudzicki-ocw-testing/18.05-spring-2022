@@ -24,12 +24,12 @@ leftnav:
   url: /pages/unit-4-statistics-confidence-intervals-regression
   weight: 60
 - identifier: 9df38ae8-8eec-4d2f-b7b4-815ce150cde3
-  name: 'Class 1: Introduction to Probability and Statistics'
+  name: 'Topic 1: Introduction to Probability and Statistics'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-1-counting
   weight: 10
 - identifier: 46c30d37-7fca-4bd6-9a53-cb110f972269
-  name: 'Class 2: Probability Basics'
+  name: 'Topic 2: Probability Basics'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-2-probability-basics
   weight: 20
@@ -44,12 +44,12 @@ leftnav:
   url: /pages/studio-1-birthday-matches
   weight: 40
 - identifier: 8a3d0781-0a48-4b02-b4ff-0d32d28b65c3
-  name: 'Class 3: Conditional Probability, Independence, Bayes Theorem'
+  name: 'Topic 3: Conditional Probability, Independence, Bayes Theorem'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-3-conditional-probability-independence-bayes-theorem
   weight: 50
 - identifier: 292aeda9-41c3-4564-8e4e-6d5b520817be
-  name: 'Class 4: Discrete Random Variables, Expected Value'
+  name: 'Topic 4: Discrete Random Variables, Expected Value'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-4-discrete-random-variables-expected-value
   weight: 60
@@ -59,7 +59,7 @@ leftnav:
   url: /pages/studio-2
   weight: 70
 - identifier: eaac4d85-5a08-4669-97eb-77690443503d
-  name: 'Class 5: Variance of Discrete Variables; Continuous Random Variables'
+  name: 'Topic 5: Variance of Discrete Variables; Continuous Random Variables'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-5-variance-of-discrete-variables-continuous-random-variables
   weight: 80
@@ -69,17 +69,17 @@ leftnav:
   url: /pages/studio-3
   weight: 90
 - identifier: 7d8482d3-43d4-4b77-b26f-88502e283313
-  name: 'Class 6: Continuous Random Variables: Expected Value and Variance; Histograms'
+  name: 'Topic 6: Continuous Random Variables: Expected Value and Variance; Histograms'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-6-continuous-random-variables-expected-value-and-variance-histograms
   weight: 100
 - identifier: e729658e-8ea1-41db-87c3-ab5611b4075a
-  name: 'Class 6.2: Law of Large Numbers, Central Limit Theorem, and Histograms'
+  name: 'Topic 6.2: Law of Large Numbers, Central Limit Theorem, and Histograms'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-62-law-of-large-numbers-central-limit-theorem-and-histograms
   weight: 110
 - identifier: 74a3de58-e4e8-4eae-8aef-497a93af2028
-  name: 'Class 7: Joint Distributions: Independence, Covariance and Correlation'
+  name: 'Topic 7: Joint Distributions: Independence, Covariance and Correlation'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-7-joint-distributions-independence-covariance-and-correlation
   weight: 120
@@ -89,7 +89,7 @@ leftnav:
   url: /pages/studio-4
   weight: 130
 - identifier: fc5d678a-adf8-48f2-b121-f94e2fd28699
-  name: 'Class 8: Exam 1 Review'
+  name: 'Topic 8: Exam 1 Review'
   parent: 3cf40710-80c3-49ae-9e83-8c9d13bf6a62
   url: /pages/class-8-exam-1-review
   weight: 140
