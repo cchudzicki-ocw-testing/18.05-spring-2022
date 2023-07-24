@@ -1,8 +1,8 @@
 ---
 content_type: page
-description: 'Topic 1: Counting'
+description: 'Class 1: Introduction to Probability and Statistics'
 draft: false
-title: 'Topic 1: Introduction to Probability and Statistics'
+title: 'Class 1: Introduction to Probability and Statistics'
 uid: 9df38ae8-8eec-4d2f-b7b4-815ce150cde3
 ---
 ## Topic 1: Introduction to Probability and Statistics
