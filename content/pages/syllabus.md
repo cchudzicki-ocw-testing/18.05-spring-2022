@@ -47,9 +47,9 @@ For in-class problem solving you will work in groups of 3.
 - Groups should sit together at tables.
 - If you need to find a group or your group needs a third person let us know and we will help.
 
-## Text
+## Textbook
 
-There will be no assigned text for the class. We will post the reading to this website.
+There will be no assigned textbook for the class. Readings will be assigned.
 
 ## Problem Sets and Exams
 
