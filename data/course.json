@@ -27,7 +27,8 @@
     "website": "introduction-to-probability-and-statistics"
   },
   "course_title": "Introduction to Probability and Statistics",
-  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.",
+  "hide_download": false,
+  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.\n\nThe Spring 2022 version of this subject employed the residential MITx system, which enables on-campus subjects to provide MIT students with learning and assessment tools such as online problem sets, lecture videos, reading questions, pre-lecture questions, problem set assistance, tutorial videos, exam review content, and even online exams.",
   "department_numbers": [
     "18"
   ],
