@@ -8,8 +8,7 @@ file_type: image/jpeg
 image_metadata:
   caption: "Jon\u2019s dice. Jon has three six-sided dice with unusual numbering.\
     \ A game consists of two players each choosing a die. They roll once and the highest\
-    \ number wins. Which die would you choose? (Image is from the class slides. Courtesy\
-    \ of Dr. Jeremy Orloff.)"
+    \ number wins. Which die would you choose? (Image from class slides.)"
   credit: ''
   image-alt: Three six-sided dice with all sides showing in a plane.
 learning_resource_types: []
