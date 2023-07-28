@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.05 Introduction to Probability and Statistics (S22), Class 11 Slides: Bayesian
-  Updating with (known) Discrete Priors'
+  Updating with (Known) Discrete Priors'
 uid: fea92337-350b-49e6-9fc3-554ff5b6391a
 video_files:
   archive_url: ''
