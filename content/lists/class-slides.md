@@ -19,6 +19,14 @@ resources:
   - bf4b0e9a-ce36-474c-aaf6-b7df2986c6ab
   - 3af8ab9f-d9e9-4288-8e26-99ed9d90dd04
   - 85636193-e6fa-45c0-a700-8df01b6e122a
+  - 29170c43-7a6c-44f4-99b5-94bdc13a993e
+  - 6adb112e-512f-48bf-b08b-9a96dc7db421
+  - b82c7f68-9ecc-4e0b-9690-23a9c928ee28
+  - d931e1cc-29e8-4551-b912-3e1e7e669eea
+  - c140de2e-b26e-44c3-bb3b-1970d6e2b735
+  - fe6b4ce0-db32-4451-b578-3bd2b04f44d0
+  - 2dadba6a-a939-4e04-9ca3-2e7a079148b8
+  - 58fc4d10-259c-42c9-b8c4-84c37285f788
   website: introduction-to-probability-and-statistics
 title: Class Slides
 uid: 23e8a908-5983-495b-b439-5c598e3b6bfb
