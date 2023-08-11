@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 Introduction to Probability and Statistics (S22), Class 02: Problems'
+title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 2
 uid: e2a65a59-0946-4fa7-80ed-8b775a9ee67a
 video_files:
   archive_url: ''
