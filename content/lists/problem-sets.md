@@ -27,6 +27,6 @@ resources:
   - e4c27008-faaf-4c6d-ae7f-01513bda12c6
   - e43f5acb-25b5-4f59-b523-c32ba5ac8138
   website: introduction-to-probability-and-statistics
-title: Problem Sets
+title: Exams
 uid: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
 ---
