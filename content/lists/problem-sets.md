@@ -10,6 +10,16 @@ resources:
   - 333fb578-b1b0-434f-900a-bb5e52b8113c
   - 1f156022-e72e-4654-9019-c81d428f9506
   - 1405ba50-be1c-4510-9f60-a953de801b63
+  - fbd715bb-10c3-4f2f-8c4c-d211080a5f74
+  - 161a127b-40ed-413b-84ec-3615c5516121
+  - 01b5bf6c-b220-44f7-896a-71417f659172
+  - d08e4e4f-6f58-4f87-ac9a-f8edbec962cb
+  - f96e24b0-8ccd-46bc-b65d-3f28ad81d367
+  - c8704030-7f00-4575-84a8-60bb18240b07
+  - 46ce583e-76ea-4d7d-8e5d-6337c1af482c
+  - 3b5846fb-2634-44b5-9294-2f45bf51c47e
+  - bfe935f7-9e6f-4b8a-a1e2-cd9c0da2672c
+  - 4c1a14b7-e040-4f20-8350-1258546fd363
   website: introduction-to-probability-and-statistics
 title: Problem Sets
 uid: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
