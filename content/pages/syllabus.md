@@ -19,6 +19,66 @@ Studios: 1 session / week, 50 minutes / session
 
 This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
 
+## Broad Course Goals
+
+- Learn the language and core concepts of probability theory.
+- Understand basic principles of statistical inference (both Bayesian and frequentist).
+- Build a starter statistical toolbox with appreciation for both the utility and limitations of these techniques.
+- Use software and simulation to do statistics (R).
+- Become an informed consumer of statistical information.
+- Prepare for further coursework or on-the-job study.
+
+## Course Arc
+
+- Probability: (uncertain world, perfect knowledge of the uncertainty)
+    - Counting
+    - Random variables, distributions, quantiles, mean variance
+    - Conditional probability, Bayes theorem, base rate fallacy
+    - Joint distributions, covariance, correlation, independence
+    - Central limit theorem
+- Statistics I: pure applied probability: (data in an uncertain world, perfect knowledge of the uncertainty)
+    - Bayesian inference with known priors, probability intervals
+    - Conjugate priors
+- Statistics II: applied probability: (data in an uncertain world, imperfect knowledge of the uncertainty)
+    - Bayesian inference with unknown priors
+    - Frequentist significance tests and confidence intervals
+    - Resampling methods: bootstrapping
+    - Linear regression
+- Computation, simulation, and visualization using R and applets will be used throughout the course.
+
+## Specific Learning Objectives
+
+### Probability
+
+Students completing the course will
+
+1. be able to use basic counting techniques (multiplication rule, combinations, permutations) to compute probability and odds
+2. be able to use R to run basic simulations of probabilistic scenarios
+3. be able to compute conditional probabilities directly and using Bayes theorem, and check for independence of events
+4. be able set up and work with discrete random variables. In particular, understand the Bernoulli, binomial, geometric and Poisson distributions
+5. be able to work with continuous randam variables. In particular, know the properties of uniform, normal and exponential distributions
+6. know what expectation and variance mean and be able to compute them
+7. understand the law of large numbers and the central limit theorem
+8. be able compute the covariance and correlation between jointly distributed variables
+9. be able to use available resources (the internet or books) to learn about and use other distributions as they arise
+
+### Statistics
+
+Students completing the course will
+
+1. be able to create and interpret scatter plots and histograms
+2. understand the difference between probability and likelihood functions and be able to find the maximum likelihood estimate for a model parameter
+3. be able to do Bayesian updating with discrete priors to compute posterior distributions and posterior odds
+4. be able to do Bayesian updating with continuous priors
+5. be able to construct estimates and predictions using the posterior distribution
+6. be able to find credible intervals for parameter estimates
+7. be able to use null hypothesis significance testing (NHST) to test the significance of results, understand and be able to compute the p-value for these tests
+8. be able to use specicific significance tests including, z-test t-test (one and two sample), chi-squared test
+9. be able to find confidence intervals for parameter estimates
+10. be able to use bootstrapping to estimate confidence intervals
+11. be able to compute and interpret simple linear regression between two variables
+12. be able to set up a least squares fit of data to a model
+
 ## Basic Structure of the Course
 
 - We will take an active learning approach similar in some respects to Technology Enabled Active Learning (TEAL).
