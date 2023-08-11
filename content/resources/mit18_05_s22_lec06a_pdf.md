@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Class 06a Slides:Continuous
-  Expectation and Variance, Quantiles, and Law of Large Numbers
+title: '18.05 Introduction to Probability and Statistics (S22), Class 06a Slides:
+  Continuous Expectation and Variance, Quantiles, and Law of Large Numbers'
 uid: 99c593d7-8f34-4406-86b8-51d6b09c74b8
 video_files:
   archive_url: ''
