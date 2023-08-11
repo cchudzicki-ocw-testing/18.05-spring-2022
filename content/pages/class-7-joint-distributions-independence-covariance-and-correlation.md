@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: 'Class 7: Joint Distributions: Independence, Covariance and Correlation'
+description: Instructor Insights
 draft: false
-title: 'Class 7: Joint Distributions: Independence, Covariance and Correlation'
+title: Instructor Insights
 uid: 74a3de58-e4e8-4eae-8aef-497a93af2028
 ---
