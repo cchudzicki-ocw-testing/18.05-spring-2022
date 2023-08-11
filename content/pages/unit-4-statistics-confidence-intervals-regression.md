@@ -1,7 +1,9 @@
 ---
 content_type: page
-description: This page includes Classes 21-26.
+description: This section provides resources that are frequently used during the course,
+  including references on probability and statistics, and instructions for using R,
+  an industrial strength open source statistical package.
 draft: false
-title: 'Unit 4: Statistics: Confidence Intervals; Regression'
+title: Related Resources
 uid: c87974e0-c253-4a50-8148-0b92730b0131
 ---
