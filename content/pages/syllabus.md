@@ -38,14 +38,6 @@ This course provides an elementary introduction to probability and statistics wi
     - We will teach you everything you need to know to use R as a tool in this class.
     - You will not be expected to do any hardcore computer programming.
 
-## Groups
-
-For in-class problem solving you will work in groups of 3.
-
-- You will be able to choose your own group.
-- After a week or so groups will be more or less permanent.
-- Groups should sit together at tables.
-
 ## Textbook
 
 There will be no assigned textbook for the class. Readings will be assigned.
@@ -59,6 +51,22 @@ There will be no assigned textbook for the class. Readings will be assigned.
     - There will be two in-class midterm exams and a comprehensive final exam.
     - The midterms will be designed to take 1 hour, but you will have the entire 80 minutes of class to finish.
     - We will have one R based quiz. For this quiz, you will be allowed to use the internet in any way except to communicate with other people.
+
+## Groups
+
+For in-class problem solving you will work in groups of 3.
+
+- You will be able to choose your own group.
+- After a week or so groups will be more or less permanent.
+- Groups should sit together at tables.
+
+## Collaboration
+
+MIT has a culture of teamwork. We encourage you to work with study partners.
+
+- Collaboration on homework is encouraged.
+- You must write your solutions yourself, in your own words.
+- You must list all collaborators and outside sources of information.
 
 ## Grading
 
