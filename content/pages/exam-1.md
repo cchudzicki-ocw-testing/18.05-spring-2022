@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: Exam 1
+description: This section includes problem sets and solutions.
 draft: false
-title: Exam 1
+title: Problem Sets
 uid: 60b6afbc-30d9-4852-ad59-e669be63c8f1
 ---
