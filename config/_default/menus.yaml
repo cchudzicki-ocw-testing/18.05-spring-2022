@@ -15,9 +15,9 @@ leftnav:
   name: Readings
   pageRef: /pages/studio-4
   weight: 40
-- identifier: fc5d678a-adf8-48f2-b121-f94e2fd28699
+- identifier: 23e8a908-5983-495b-b439-5c598e3b6bfb
   name: Class Slides
-  pageRef: /pages/class-8-exam-1-review
+  pageRef: /lists/class-slides
   weight: 50
 - identifier: 60b6afbc-30d9-4852-ad59-e669be63c8f1
   name: Problem Sets
