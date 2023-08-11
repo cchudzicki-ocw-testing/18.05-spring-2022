@@ -106,3 +106,8 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 ***Key Date:*** Problem set 11 due
 
 - Class 26: Linear and Multiple Regression
+- Review for Final Exam
+
+## Week 15
+
+- Final Exam
