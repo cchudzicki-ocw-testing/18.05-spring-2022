@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: Class Slides
+description: Class slides 8, 9, 14, 21, and 25 are not available.
 draft: false
 resources:
   content: []
