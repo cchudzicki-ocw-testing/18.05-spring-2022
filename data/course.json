@@ -38,7 +38,12 @@
     "content": "1dde76f8-2b81-404b-8cdc-01d2f58ffac7",
     "website": "introduction-to-probability-and-statistics"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Readings"
+  ],
   "site_uid": "5c8e7edf-85b3-4365-8a0c-ce24f816baca",
   "site_short_id": "18.05-spring-2022"
 }
