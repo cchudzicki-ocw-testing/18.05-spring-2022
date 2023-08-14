@@ -9,7 +9,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 1: Counting
 - Class 2: Probability Basics
-- Studio 1: 
+- Studio 1: Birthday Matches
 
 ## Week 2
 
