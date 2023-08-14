@@ -40,6 +40,14 @@ resources:
   - 3a2e10a2-c339-470d-a1ae-d124f8167504
   - 6f8471a4-bb06-4b64-94aa-43a74aee3948
   - 1d80e23d-f824-4fc0-9f96-22641cbbf17e
+  - b668eb39-9959-4178-b784-32b3229efdb4
+  - d6a05ee5-ef27-46bd-9674-2d796abbaef2
+  - a871f2b9-85fa-4787-99b6-9f42842c1398
+  - f12b3c7c-d1b2-4d0f-8d6b-9d49ed7a2abf
+  - cbfbe2d4-cd6b-48b3-a8f0-2b102b870e99
+  - 2385370b-5396-4d50-b0df-071fd3cf4cc1
+  - 020979a0-1b4a-4e7c-bf13-f5255e14a724
+  - f749112b-6a32-4b40-8646-00bac8ebeb2b
   website: introduction-to-probability-and-statistics
 title: In-Class Questions and Solutions
 uid: f809c5a5-bdd8-4b1c-977c-e60ec9970b0f
