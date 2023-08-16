@@ -78,14 +78,14 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 
 ## R Quiz Practice
 
-- R Quiz Practice Instruction (PDF)
-- R Quiz Practice Materials (ZIP) 
-- R Quiz Practice Solutions (R)
-- R Quiz Practice for teachers (ZIP)
+- {{% resource_link "70e28a5a-d20e-4a9f-a752-68243718f41c" "R Quiz Practice Instruction (PDF)" %}}
+- {{% resource_link "48bfd72b-0f24-4eeb-8e64-ce9da0d0bcc7" "R Quiz Practice Materials (ZIP)" %}} 
+- {{% resource_link "eb1344e2-3a1d-4431-af3a-e4f184cb9305" "R Quiz Practice Solutions (R)" %}}
+- {{% resource_link "011569f4-859f-478d-aae0-8d38d81f9775" "R Quiz Practice for teachers (ZIP)" %}}
 
 ## R Quiz
 
-- R Quiz Instruction (PDF)
-- R Quiz Materials (ZIP) 
-- R Quiz Solutions (R)
-- R Quiz for teachers (ZIP)
+- {{% resource_link "73bcf780-cc4f-4699-becb-c2ebf77efd9b" "R Quiz Instruction (PDF)" %}}
+- {{% resource_link "fb9c2d79-3d80-4fd9-bcd3-65c277abf2bb" "R Quiz Materials (ZIP)" %}} 
+- {{% resource_link "e5fc8236-8a7b-4869-8656-60db41376b36" "R Quiz Solutions (R)" %}}
+- {{% resource_link "108ca2b7-8d0a-406c-a0d7-a042299f8e94" "R Quiz for teachers (ZIP)" %}}
