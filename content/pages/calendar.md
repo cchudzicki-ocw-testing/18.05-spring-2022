@@ -17,7 +17,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 3: Conditional Probability, Independence, and Bayes Theorem
 - Class 4: Discrete Random Variables and Expected Value
-- Studio 2: 
+- Studio 2: Binomial Distributions; Derangements
 
 ## Week 3
 
@@ -25,7 +25,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 5a: Variance of Discrete Variables; Continuous Random Variables
 - Class 5b: Continuous Random Variables (continued)
-- Studio 3: 
+- Studio 3: Histograms
 
 ## Week 4
 
@@ -39,7 +39,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 6b: Law of Large Numbers, Central Limit Theorem, Histograms
 - Class 7: Joint Distributions: Independence, Covariance and Correlation
-- Studio 4: 
+- Studio 4: Covariance and Correlation
 
 ## Week 6
 
@@ -55,13 +55,13 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 11: Bayesian Updating: Discrete Priors
 - Class 12: Predictive Probabilities, Bayesian Updating: Odds
-- Studio 5: 
+- Studio 5: Discrete Bayesian Updating
 
 ## Week 8
 
 - Class 13: Bayesian Updating: Continuous Prior, Discrete Data
 - Class 15: Beta Distributions, Conjugate Priors; Choosing Priors
-- Studio 6: 
+- Studio 6: Discretized Continuous Bayesian Updating
 
 ## Week 9
 
@@ -69,7 +69,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 16: Choosing Priors; Probabiliy Intervals
 - Class 17: NHST: Rejection Regions, z-test
-- Studio 7: 
+- Studio 7: Significance Testing and the Probability of Hypotheses
 
 ## Week 10
 
@@ -77,7 +77,7 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 18: NHST (continued) (t-tests)
 - Class 19: NHST: Distributions Related to Normal Distributions (chi Square, ANOVA)
-- Studio 8: 
+- Studio 8: Simulation and Computation of NHST
 
 ## Week 11
 
@@ -85,13 +85,13 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 
 - Class 20: Comparison of Bayes and NHST
 - Class 22: Confidence Intervals
-- Studio 9: 
+- Studio 9: Simulating Confidence Intervals
 
 ## Week 12
 
 - Review for Exam 2 
 - Exam 2 
-- Studio 10: 
+- Studio 10: Bootstrap Confidence Intervals
 
 ## Week 13
 
