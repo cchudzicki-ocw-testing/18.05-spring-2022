@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), R Studio 1
+title: 18.05 Introduction to Probability and Statistics (S22), R Studio 1 Instructions
 uid: 88f59247-133c-45fc-b297-c5c7b31abdfa
 video_files:
   archive_url: ''
