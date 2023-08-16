@@ -76,16 +76,16 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 - {{% resource_link "576ba788-30fc-48e7-8754-3d71e071067d" "Studio 10 Solutions (R)" %}}
 - {{% resource_link "38149cb8-46fd-43c0-b4d8-53af86d2f1d5" "Studio 10 for teachers (ZIP)" %}}
 
-## Practice R Quiz
+## R Quiz Practice
 
-- Practice R Quiz Instruction (PDF)
-- Practice R Quiz  Materials (ZIP) 
-- Practice R Quiz Solutions (R)
-- Practice R Quiz for teachers (ZIP)
+- R Quiz Practice Instruction (PDF)
+- R Quiz Practice Materials (ZIP) 
+- R Quiz Practice Solutions (R)
+- R Quiz Practice for teachers (ZIP)
 
 ## R Quiz
 
 - R Quiz Instruction (PDF)
-- R Quiz  Materials (ZIP) 
+- R Quiz Materials (ZIP) 
 - R Quiz Solutions (R)
 - R Quiz for teachers (ZIP)
