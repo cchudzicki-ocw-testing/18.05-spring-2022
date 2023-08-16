@@ -44,7 +44,7 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 ## R Studio 6:
 
 - {{% resource_link "13841690-e57f-4b99-b0b0-aa7ed99207ef" "Studio 6 Instructions (PDF)" %}}
-- {{% resource_link "0aaf0160-74c9-4f60-ba33-3f7e7187040f" "Studio 6 Materials (ZIP)" %}} 
+- {{% resource_link "0aaf0160-74c9-4f60-ba33-3f7e7187040f" "Studio 6 Materials (ZIP)" %}}
 - {{% resource_link "5f17af01-b083-4480-9581-7cc67a21c854" "Studio 6 Solutions (R)" %}}
 - {{% resource_link "5f9ca3ad-d256-492b-a0da-810fb1ad9580" "Studio 6 for teachers (ZIP)" %}}
 
@@ -65,13 +65,13 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 ## R Studio 9:
 
 - {{% resource_link "5e0b73d7-9b04-4465-9bc5-1fd8f7cc0453" "Studio 9 Instructions (PDF)" %}}
-- Studio 9 Materials (ZIP) 
+- {{% resource_link "f222d6de-730e-412f-af04-804230b96c0c" "Studio 9 Materials (ZIP)" %}} 
 - {{% resource_link "cef00759-ecc8-43f6-ad72-026bf0aeef92" "Studio 9 Solutions (R)" %}}
-- Studio 9 for teachers (ZIP)
+- {{% resource_link "29de1af9-798b-43e3-8a12-15969c09c8b5" "Studio 9 for teachers (ZIP)" %}}
 
 ## R Studio 10:
 
 - {{% resource_link "a403cb06-8565-4653-bc26-b1db90b27853" "Studio 10 Instructions (PDF)" %}}
-- Studio 10 Materials (ZIP) 
+- {{% resource_link "58eef427-f8f8-47b5-9fc4-19546f8cb2b4" "Studio 10 Materials (ZIP)" %}} 
 - {{% resource_link "576ba788-30fc-48e7-8754-3d71e071067d" "Studio 10 Solutions (R)" %}}
-- Studio 10 for teachers (ZIP)
+- {{% resource_link "38149cb8-46fd-43c0-b4d8-53af86d2f1d5" "Studio 10 for teachers (ZIP)" %}}
