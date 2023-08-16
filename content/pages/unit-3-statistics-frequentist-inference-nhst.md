@@ -15,63 +15,63 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 
 ## R Studio 2:
 
-- Studio 2 Instructions (PDF)
+- {{% resource_link "749b9049-02d8-4712-9236-dcd4ccc4cdb9" "Studio 2 Instructions (PDF)" %}}
 - Studio 2 Materials (ZIP) 
 - Studio 2 Solutions (R)
 - Studio 2 for teachers (ZIP)
 
 ## R Studio 3:
 
-- Studio 3 Instructions (PDF)
+- {{% resource_link "247860b4-c71b-407b-b8ac-f16536fc0451" "Studio 3 Instructions (PDF)" %}}
 - Studio 3 Materials (ZIP) 
 - Studio 3 Solutions (R)
 - Studio 3 for teachers (ZIP)
 
 ## R Studio 4:
 
-- Studio 4 Instructions (PDF)
+- {{% resource_link "e68cf4c3-e90e-4652-88e8-b9658d641b8b" "Studio 4 Instructions (PDF)" %}}
 - Studio 4 Materials (ZIP) 
 - Studio 4 Solutions (R)
 - Studio 4 for teachers (ZIP)
 
 ## R Studio 5:
 
-- Studio 5 Instructions (PDF)
+- {{% resource_link "bec41d4a-dbd5-491b-97b2-e87895293731" "Studio 5 Instructions (PDF)" %}}
 - Studio 5 Materials (ZIP) 
 - Studio 5 Solutions (R)
 - Studio 5 for teachers (ZIP)
 
 ## R Studio 6:
 
-- Studio 6 Instructions (PDF)
+- {{% resource_link "13841690-e57f-4b99-b0b0-aa7ed99207ef" "Studio 6 Instructions (PDF)" %}}
 - Studio 6 Materials (ZIP) 
 - Studio 6 Solutions (R)
 - Studio 6 for teachers (ZIP)
 
 ## R Studio 7:
 
-- Studio 7 Instructions (PDF)
+- {{% resource_link "bbfabcb2-4942-427c-a098-5719fed5a2fe" "Studio 7 Instructions (PDF)" %}}
 - Studio 7 Materials (ZIP) 
 - Studio 7 Solutions (R)
 - Studio 7 for teachers (ZIP)
 
 ## R Studio 8:
 
-- Studio 8 Instructions (PDF)
+- {{% resource_link "ea4e8c4a-0a1c-4415-b5ba-c7688b2d5013" "Studio 8 Instructions (PDF)" %}}
 - Studio 8 Materials (ZIP) 
 - Studio 8 Solutions (R)
 - Studio 8 for teachers (ZIP)
 
 ## R Studio 9:
 
-- Studio 9 Instructions (PDF)
+- {{% resource_link "5e0b73d7-9b04-4465-9bc5-1fd8f7cc0453" "Studio 9 Instructions (PDF)" %}}
 - Studio 9 Materials (ZIP) 
 - Studio 9 Solutions (R)
 - Studio 9 for teachers (ZIP)
 
 ## R Studio 10:
 
-- Studio 10 Instructions (PDF)
+- {{% resource_link "a403cb06-8565-4653-bc26-b1db90b27853" "Studio 10 Instructions (PDF)" %}}
 - Studio 10 Materials (ZIP) 
 - Studio 10 Solutions (R)
 - Studio 10 for teachers (ZIP)
