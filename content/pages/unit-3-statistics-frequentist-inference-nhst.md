@@ -69,7 +69,7 @@ uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
 - {{% resource_link "cef00759-ecc8-43f6-ad72-026bf0aeef92" "Studio 9 Solutions (R)" %}}
 - {{% resource_link "29de1af9-798b-43e3-8a12-15969c09c8b5" "Studio 9 for teachers (ZIP)" %}}
 
-## R Studio 10:
+## R Studio 10: Bootstrap Confidence Intervals
 
 - {{% resource_link "a403cb06-8565-4653-bc26-b1db90b27853" "Studio 10 Instructions (PDF)" %}}
 - {{% resource_link "58eef427-f8f8-47b5-9fc4-19546f8cb2b4" "Studio 10 Materials (ZIP)" %}} 
