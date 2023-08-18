@@ -1,6 +1,7 @@
 ---
 content_type: resource-list
-description: Class slides 8, 9, 14, 21, and 25 are not available.
+description: "Note: There aren\u2019t any class slides for class 9 (Exam 1), 14, and\
+  \ 25 (R Quiz)."
 draft: false
 resources:
   content:
