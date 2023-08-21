@@ -9,7 +9,7 @@ leftnav:
   weight: 20
 - identifier: ec1e33f0-a454-45c4-80ef-fb58703d8516
   name: Readings
-  pageRef: /pages/studio-4
+  pageRef: /pages/readings
   weight: 30
 - identifier: 23e8a908-5983-495b-b439-5c598e3b6bfb
   name: Class Slides
@@ -21,17 +21,17 @@ leftnav:
   weight: 50
 - identifier: aae54385-2ab5-43f7-acb3-b7898be84df1
   name: Problem Sets
-  pageRef: /lists/problem-sets2
+  pageRef: /lists/problem-sets
   weight: 60
 - identifier: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
   name: Exams
-  pageRef: /lists/problem-sets
+  pageRef: /lists/exams
   weight: 70
 - identifier: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
   name: Studio Resources
-  pageRef: /pages/unit-3-statistics-frequentist-inference-nhst
+  pageRef: /pages/studio-resources
   weight: 80
 - identifier: c87974e0-c253-4a50-8148-0b92730b0131
   name: Related Resources
-  pageRef: /pages/unit-4-statistics-confidence-intervals-regression
+  pageRef: /pages/related-resources
   weight: 90
