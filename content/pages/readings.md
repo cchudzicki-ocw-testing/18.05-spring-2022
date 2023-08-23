@@ -20,8 +20,8 @@ Listed below are assigned readings that students were expected to complete prior
 ### Class 2
 
 - {{% resource_link "0709cc63-8b7b-47db-915f-1efb3ddd3867" "Class 2: Probability: Terminology and Examples (PDF)" %}}         
-- R Tutorial 1a: Basics        
-- R Tutorial 1b: Random Numbers 
+- R Tutorial a: Basics        
+- R Tutorial b: Random Numbers 
 - Class 2 online reading questions
 
 ###  Class 3 
