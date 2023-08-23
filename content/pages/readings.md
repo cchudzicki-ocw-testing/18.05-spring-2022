@@ -15,7 +15,7 @@ Listed below are assigned readings that students were expected to complete prior
 
 - {{% resource_link "bfa2538e-f9a4-465e-af39-ed57de35e98c" "Class 1a: Introduction (PDF)" %}}             
 - {{% resource_link "d3a2af35-17b7-4141-b69a-958f1da60709" "Class 1b: Counting and Sets (PDF)" %}}   
-- Class 1 online reading questions         
+- [Class 1 online reading questions](https://studio.openlearninglibrary.mit.edu/container/block-v1:MITx+18.05r_10+2022_Summer+type@vertical+block@class1-rq1-vertical)         
 
 ### Class 2
 
