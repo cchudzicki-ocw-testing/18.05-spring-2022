@@ -19,45 +19,42 @@ Listed below are assigned readings that students were expected to complete prior
 
 ### Class 2
 
-{{% resource_link "0709cc63-8b7b-47db-915f-1efb3ddd3867" "Class 2: Probability: Terminology and Examples (PDF)" %}}         
-
-R Tutorial 1a: Basics        
-
-R Tutorial 1b: Random Numbers 
+- {{% resource_link "0709cc63-8b7b-47db-915f-1efb3ddd3867" "Class 2: Probability: Terminology and Examples (PDF)" %}}         
+- R Tutorial 1a: Basics        
+- R Tutorial 1b: Random Numbers 
+- Class 2 online reading questions
 
 ###  Class 3 
 
-{{% resource_link "eb251f41-341e-458e-aea9-0bac4063383a" "Class 3: Conditional Probability, Independence, Bayes’ Theorem (PDF)" %}}   
+- {{% resource_link "eb251f41-341e-458e-aea9-0bac4063383a" "Class 3: Conditional Probability, Independence, Bayes’ Theorem (PDF)" %}} 
+- Class 3 online reading questions  
 
 ###  Class 4           
 
-{{% resource_link "16e44101-3370-4a88-b9c2-94191f691519" "Class 4a: Discrete Random Variables (PDF)" %}}             
-
-{{% resource_link "1c69975d-aba7-45c0-94bf-4c6929d64556" "Class 4b: Expected Value of Discrete Random Variables (PDF)" %}}    
+- {{% resource_link "16e44101-3370-4a88-b9c2-94191f691519" "Class 4a: Discrete Random Variables (PDF)" %}}             
+- {{% resource_link "1c69975d-aba7-45c0-94bf-4c6929d64556" "Class 4b: Expected Value of Discrete Random Variables (PDF)" %}} 
+- Class 4 online reading questions   
 
 ###  Class 5         
 
-{{% resource_link "07132b94-7437-44fe-be00-27fb32ec8ab9" "Class 5a: Variance of Discrete Random Variables (PDF)" %}}             
-
-{{% resource_link "c5e2a42e-06f7-46fb-ace3-173c6d2cfc36" "Class 5b: Continuous Random Variables (PDF)" %}}             
-
-{{% resource_link "9fa670e3-eab6-4107-bed4-940dc80e83db" "Class 5c: Gallery of Continuous Random Variables (PDF)" %}}             
-
-{{% resource_link "0856e14a-7140-4e0f-9bb8-bcb67c64ba55" "Class 5d: Manipulating Random Variables (PDF)" %}}       
+- {{% resource_link "07132b94-7437-44fe-be00-27fb32ec8ab9" "Class 5a: Variance of Discrete Random Variables (PDF)" %}}             
+- {{% resource_link "c5e2a42e-06f7-46fb-ace3-173c6d2cfc36" "Class 5b: Continuous Random Variables (PDF)" %}}             
+- {{% resource_link "9fa670e3-eab6-4107-bed4-940dc80e83db" "Class 5c: Gallery of Continuous Random Variables (PDF)" %}}             
+- {{% resource_link "0856e14a-7140-4e0f-9bb8-bcb67c64ba55" "Class 5d: Manipulating Random Variables (PDF)" %}}      
+- Class 5 online reading questions 
 
 ###  Class 6      
 
-{{% resource_link "02eae3c3-fdff-4653-a122-6a47bf0277de" "Class 6a: Continuous Random Variables: Expectation and Variance (PDF)" %}}             
-
-{{% resource_link "e43612ac-26c2-4100-a280-a02f37196d07" "Class 6b: Central Limit Theorem (PDF)" %}}             
-
-{{% resource_link "d2f0b7f7-ddf2-4c1e-b434-2efd20f7afb0" "Class 6c: Appendix (PDF)" %}}      
+- {{% resource_link "02eae3c3-fdff-4653-a122-6a47bf0277de" "Class 6a: Continuous Random Variables: Expectation and Variance (PDF)" %}}             
+- {{% resource_link "e43612ac-26c2-4100-a280-a02f37196d07" "Class 6b: Central Limit Theorem (PDF)" %}}             
+- {{% resource_link "d2f0b7f7-ddf2-4c1e-b434-2efd20f7afb0" "Class 6c: Appendix (PDF)" %}} 
+- Class 6 online reading questions    
 
 ###  Class 7       
 
-{{% resource_link "9622cb08-a0da-4818-b1f5-3447ba26d68b" "Class 7a: Joint Distributions, Independence (PDF)" %}}             
-
-{{% resource_link "fdc0d328-20df-4250-b462-620a207097f0" "Class 7b: Covariance and Correlation (PDF)" %}}      
+- {{% resource_link "9622cb08-a0da-4818-b1f5-3447ba26d68b" "Class 7a: Joint Distributions, Independence (PDF)" %}}             
+- {{% resource_link "fdc0d328-20df-4250-b462-620a207097f0" "Class 7b: Covariance and Correlation (PDF)" %}}      
+- Class 7 online reading questions
 
 ## Unit 2: Statistics: Bayesian Inference    
 
@@ -65,13 +62,14 @@ R Tutorial 1b: Random Numbers 
 
 ###  Class 10    
 
-{{% resource_link "2bb5b794-5cd6-4434-a17c-0267a91c5ba2" "Class 10a: Introduction to Statistics (PDF)" %}}             
-
-{{% resource_link "bb012139-6424-4b10-96b9-a31d0bdf63ca" "Class 10b: Maximum Likelihood Estimates (PDF)" %}}    
+- {{% resource_link "2bb5b794-5cd6-4434-a17c-0267a91c5ba2" "Class 10a: Introduction to Statistics (PDF)" %}}             
+- {{% resource_link "bb012139-6424-4b10-96b9-a31d0bdf63ca" "Class 10b: Maximum Likelihood Estimates (PDF)" %}} 
+- Class 10 online reading questions   
 
 ###  Class 11           
 
-{{% resource_link "99758908-098a-4499-a3ca-9fbe1a4bac66" "Class 11: Bayesian Updating with Discrete Priors (PDF)" %}}   
+- {{% resource_link "99758908-098a-4499-a3ca-9fbe1a4bac66" "Class 11: Bayesian Updating with Discrete Priors (PDF)" %}}  
+- Class 11 online reading questions 
 
 ###  Class 12            
 
