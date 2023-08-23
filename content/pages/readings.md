@@ -73,66 +73,74 @@ Listed below are assigned readings that students were expected to complete prior
 
 ###  Class 12            
 
-{{% resource_link "c1edbc40-ac80-406e-b16d-d76ea9e4be72" "Class 12a: Bayesian Updating: Probabilistic Prediction (PDF)" %}}             
-
-{{% resource_link "12adc3c4-539d-4445-b2bb-837c308159a9" "Class 12b: Bayesian Updating: Odds (PDF)" %}}       
+- {{% resource_link "c1edbc40-ac80-406e-b16d-d76ea9e4be72" "Class 12a: Bayesian Updating: Probabilistic Prediction (PDF)" %}}             
+- {{% resource_link "12adc3c4-539d-4445-b2bb-837c308159a9" "Class 12b: Bayesian Updating: Odds (PDF)" %}}
+- Class 12 online reading questions       
 
 ###  Class 13        
 
-{{% resource_link "70593c03-614f-4bf2-a374-50725b0ab17e" "Class 13a: Bayesian Updating with Continuous Priors (PDF)" %}}             
-
-{{% resource_link "93d0e77c-03e8-4f1c-acb2-65ca17d24e78" "Class 13b: Notational Conventions (PDF)" %}}        
+- {{% resource_link "70593c03-614f-4bf2-a374-50725b0ab17e" "Class 13a: Bayesian Updating with Continuous Priors (PDF)" %}}             
+- {{% resource_link "93d0e77c-03e8-4f1c-acb2-65ca17d24e78" "Class 13b: Notational Conventions (PDF)" %}}  
+- Class 13 online reading questions      
 
 ###  Class 14     
 
-{{% resource_link "8cae3efe-ace8-40f1-9328-c7e9ac753155" "Class 14: Continuous Data with Continuous Priors (PDF)" %}}     
+- {{% resource_link "8cae3efe-ace8-40f1-9328-c7e9ac753155" "Class 14: Continuous Data with Continuous Priors (PDF)" %}} 
+- Class 14 online reading questions    
 
 ###  Class 15          
 
-{{% resource_link "4804a03d-8cf6-4eaf-8642-6c95099121a7" "Class 15: Beta Distributions, Conjugate Priors: Beta and Normal (PDF)" %}}    
+- {{% resource_link "4804a03d-8cf6-4eaf-8642-6c95099121a7" "Class 15: Beta Distributions, Conjugate Priors: Beta and Normal (PDF)" %}}   
+- Class 15 online reading questions 
 
 ###  Class 16           
 
-{{% resource_link "a86b34d5-7d2c-4d8c-afa6-62c79863f6f3" "Class 16a: Choosing Priors (PDF)" %}}             
-
-{{% resource_link "30cc5b84-d12b-4fce-b5ad-3e2b2628a7cb" "Class 16b: Probability Intervals (PDF)" %}}    
+- {{% resource_link "a86b34d5-7d2c-4d8c-afa6-62c79863f6f3" "Class 16a: Choosing Priors (PDF)" %}}             
+- {{% resource_link "30cc5b84-d12b-4fce-b5ad-3e2b2628a7cb" "Class 16b: Probability Intervals (PDF)" %}} 
+- Class 16 online reading questions   
 
 ## Unit 3 Statistics: Frequentist Inference: NHST       
 
 ###  Class 17  
 
-{{% resource_link "abccdecf-ad34-4e03-a38c-7eac868f1051" "Class 17a: The Frequentist School of Statistics (PDF)" %}}             
-
-{{% resource_link "ed1420e8-61e0-4c02-8953-8ea6f8970b56" "Class 17b: NHST I (PDF)" %}}   
+- {{% resource_link "abccdecf-ad34-4e03-a38c-7eac868f1051" "Class 17a: The Frequentist School of Statistics (PDF)" %}}             
+- {{% resource_link "ed1420e8-61e0-4c02-8953-8ea6f8970b56" "Class 17b: NHST I (PDF)" %}} 
+- Class 17 online reading questions  
 
 ###  Class 18            
 
-{{% resource_link "f2c0e1e2-36b7-4eb5-946a-3b01d795a8b8" "Class 18: NHST II (PDF)" %}} 
+- {{% resource_link "f2c0e1e2-36b7-4eb5-946a-3b01d795a8b8" "Class 18: NHST II (PDF)" %}} 
+- Class 18 online reading questions
 
 ###  Class 19              
 
-{{% resource_link "8e8c4cb9-7e3a-40d8-b370-d380b5a9c50e" "Class 19: NHST III (PDF)" %}}   
+- {{% resource_link "8e8c4cb9-7e3a-40d8-b370-d380b5a9c50e" "Class 19: NHST III (PDF)" %}}
+- Class 19 online reading questions   
 
 ###  Class 20            
 
-{{% resource_link "a199a6e2-3f98-4c9a-aa31-12d861cdc80e" "Class 20: Comparison of Frequentist and Bayesian Inference (PDF)" %}}    
+- {{% resource_link "a199a6e2-3f98-4c9a-aa31-12d861cdc80e" "Class 20: Comparison of Frequentist and Bayesian Inference (PDF)" %}}  
+- Class 20 online reading questions  
 
 ## Unit 4 Statistics: Confidence Intervals; Regression       
 
 ### Class 22
 
-{{% resource_link "219bfc3d-599d-4a88-b919-56c98e8ddade" "Class 22: Confidence Intervals Based on Normal Data (PDF)" %}}     
+- {{% resource_link "219bfc3d-599d-4a88-b919-56c98e8ddade" "Class 22: Confidence Intervals Based on Normal Data (PDF)" %}}   
+- Class 22 online reading questions  
 
 ### Class 23        
 
-{{% resource_link "6eedd7af-3d7c-4e38-baac-a03736fff815" "Class 23a: Confidence Intervals: Three Views (PDF)" %}}             
-
-{{% resource_link "84916565-934c-4aae-941e-ce6097255d57" "Class 23b: Confidence Intervals for the Mean of Non-normal Data (PDF)" %}}     
+- {{% resource_link "6eedd7af-3d7c-4e38-baac-a03736fff815" "Class 23a: Confidence Intervals: Three Views (PDF)" %}}             
+- {{% resource_link "84916565-934c-4aae-941e-ce6097255d57" "Class 23b: Confidence Intervals for the Mean of Non-normal Data (PDF)" %}} 
+- Class 23 online reading questions    
 
 ### Class 24        
 
-{{% resource_link "04c60a73-b40a-494c-baf3-558029995a39" "Class 24: Bootstrap Confidence Intervals (PDF)" %}}   
+- {{% resource_link "04c60a73-b40a-494c-baf3-558029995a39" "Class 24: Bootstrap Confidence Intervals (PDF)" %}}
+- Class 24 online reading questions   
 
 ### Class 26          
 
-{{% resource_link "ab4f65fe-e7f1-4b39-aaf4-87080d72c06b" "Class 26: Linear Regression (PDF)" %}}
+- {{% resource_link "ab4f65fe-e7f1-4b39-aaf4-87080d72c06b" "Class 26: Linear Regression (PDF)" %}}
+- Class 26 online reading questions
