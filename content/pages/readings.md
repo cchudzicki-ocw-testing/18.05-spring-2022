@@ -94,7 +94,7 @@ Listed below are assigned readings that students were expected to complete prior
 
 ###  Class 14     
 
-- {{% resource_link "8cae3efe-ace8-40f1-9328-c7e9ac753155" "Class 14: Continuous Data with Continuous Priors (PDF)" %}}   
+- {{% resource_link "8cae3efe-ace8-40f1-9328-c7e9ac753155" "Class 14: Continuous Data with Continuous Priors (PDF)" %}} (not assigned)  
 
 ###  Class 15          
 
