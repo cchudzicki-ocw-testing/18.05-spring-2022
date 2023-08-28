@@ -7,11 +7,11 @@ uid: ad455e5d-07cd-408f-bfd2-cf7c26500738
 ---
 ### Time
 
-We estimate this tutorial (1A and 1B) will take 20-30 minutes. That includes time for a bit of playing around with the commands.
+We estimate this tutorial (a and b) will take 20-30 minutes. That includes time for a bit of playing around with the commands.
 
 ### Conventions
 
-\# This is an edited transcript of a R session.    
+\# This is an edited transcript of a R session.     
 \# We've inserted comment lines, which begin with a '#',
 
 *Command lines* begin with a '>'. You should enter everything after the '>' and hit return. R's response will be in the line or lines below the command.
@@ -76,7 +76,7 @@ Don't worry for now about the \[ 1 \]. It will play more of a role when R is pri
 
 ### Vectors
 
-\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.    
+\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.     
 \# You create vectors by using the c( ) function.
 
 ```c
@@ -135,7 +135,7 @@ the start of each line in brackets is the index of the first entry on that line.
 [1]     7   343 16807
 ```
 
-\# You can add, subtract, multiply and divide vectors of *the same size.*    
+\# You can add, subtract, multiply and divide vectors of *the same size.*     
 \# Check that the following give the right answers.> x = c(1,2,3) ≫ y = c(4,5,6) > x+y \[1\] 5 7 9 > x-y \[1\] -3 -3 -3 > z = x\*y > z \[1\]  4 10 18 > z = x/y > z \[1\] 0.25 0.40 0.50 # You can even raise a vector to another vector of the same length > x^y \[1\]   1  32 729
 
 ### Accessing entries in a vector.
