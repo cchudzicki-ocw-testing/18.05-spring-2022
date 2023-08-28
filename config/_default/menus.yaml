@@ -35,13 +35,3 @@ leftnav:
   name: Related Resources
   pageRef: /pages/related-resources
   weight: 90
-- identifier: ad455e5d-07cd-408f-bfd2-cf7c26500738
-  name: 'R Tutorial a: Basics'
-  pageRef: /pages/r-tutorial-a-basics
-  parent: ec1e33f0-a454-45c4-80ef-fb58703d8516
-  weight: 10
-- identifier: caf11256-bc50-4551-95a6-70ae98b5918a
-  name: 'R Tutorial b: Random Numbers'
-  pageRef: /pages/r-tutorial-b-random-numbers
-  parent: ec1e33f0-a454-45c4-80ef-fb58703d8516
-  weight: 20
