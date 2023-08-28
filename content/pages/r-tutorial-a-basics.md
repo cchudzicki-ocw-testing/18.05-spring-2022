@@ -5,32 +5,32 @@ draft: false
 title: 'R Tutorial a: Basics'
 uid: ad455e5d-07cd-408f-bfd2-cf7c26500738
 ---
-### Time
+## Time
 
 We estimate this tutorial (a and b) will take 20-30 minutes. That includes time for a bit of playing around with the commands.
 
-### Conventions
+## Conventions
 
-\# This is an edited transcript of a R session.     
+\# This is an edited transcript of a R session.      
 \# We've inserted comment lines, which begin with a '#',
 
 *Command lines* begin with a '>'. You should enter everything after the '>' and hit return. R's response will be in the line or lines below the command.
 
 **Trick**: you can use the up arrow to find previous commands.
 
-### Using a Tutorial
+## Using a Tutorial
 
 In order to (begin to) learn the commands you should have RStudio open and go through the tutorial line-by-line. When the tutorial shows you a command try it in RStudio. Then make up a few of your own variants and try them. If you wonder about the effect of some command, try it. The worst that will happen is R will print out an error message.
 
-### Introduction
+## Introduction
 
 R is a full featured statistics package as well as a full programming language. This is not a programming class so we will only ask you to issue simple commands. We will not ask you to do serious programming. Even so, you will be able to run statistical simulations and make beautiful plots of your data.
 
-### Starting R
+## Starting R
 
 If you've installed R and RStudio then simply start the RStudio application. The command window is the one with the `>`. It's probably the window in the lower left.
 
-### R as a Calculator
+## R as a Calculator
 
 \# The basic operations are \*,+,-,/,^.
 
@@ -76,7 +76,7 @@ Don't worry for now about the \[ 1 \]. It will play more of a role when R is pri
 
 ### Vectors
 
-\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.     
+\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.      
 \# You create vectors by using the c( ) function.
 
 ```c
@@ -135,7 +135,7 @@ the start of each line in brackets is the index of the first entry on that line.
 [1]     7   343 16807
 ```
 
-\# You can add, subtract, multiply and divide vectors of *the same size.*     
+\# You can add, subtract, multiply and divide vectors of *the same size.*      
 \# Check that the following give the right answers.> x = c(1,2,3) ≫ y = c(4,5,6) > x+y \[1\] 5 7 9 > x-y \[1\] -3 -3 -3 > z = x\*y > z \[1\]  4 10 18 > z = x/y > z \[1\] 0.25 0.40 0.50 # You can even raise a vector to another vector of the same length > x^y \[1\]   1  32 729
 
 ### Accessing entries in a vector.
