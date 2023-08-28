@@ -7,7 +7,7 @@ uid: caf11256-bc50-4551-95a6-70ae98b5918a
 ---
 In order to run simulations of experiments with random outcomes we make use of R's ability to generate random numbers. More precisely it generates a 'pseudo-random' number, which behaves in many ways like a truly random number.
 
-### The function sample(x, k, replace = TRUE)
+## The function sample(x, k, replace = TRUE)
 
 \# sample(x,k) generates a random permutation of k objects from the vector x. That is, all k choices are different
 
@@ -44,7 +44,7 @@ Error in sample.int(length(x), size, replace, prob) :&nbsp;&nbsp;
  cannot take a sample larger than the population when 'replace = FALSE'
 ```
 
-Allowing repeated elements      
+Allowing repeated elements       
 \# Sometimes you want to allow repeats. For example when  we roll a die repeatedly we expect to see numbers repeating. We can think of this as picking a random element from a set and then putting it back, i.e. replacing it, so it can be drawn again.
 
 \# In R we do this by setting the optional argument replace=TRUE
@@ -75,7 +75,7 @@ Allowing repeated elements    
 
 \# To generate an m x n array of random values we can use the function sample function followed by the matrix function.
 
-\# Let's simulate rolling a die.       
+\# Let's simulate rolling a die.        
 \# We use 1:6 to make vector (1,2,3,4,5,6).
 
 ```c
@@ -96,7 +96,7 @@ Allowing repeated elements    
 [2,]    2    3    1    3    1    3
 ```
 
-### Simulation
+## Simulation
 
 \# First let's simulate rolling 1 die 3 times and checking if one of the rolls was a 6.
 
@@ -147,8 +147,8 @@ Allowing repeated elements    
 
 \# Now let's estimate the probability of getting at least one 6 in 4 rolls.
 
-\# Goal: estimate the probability of getting at least one 6 in 4 rolls.      
-\# Experiment: roll 1 die 4 times and check for a 6.       
+\# Goal: estimate the probability of getting at least one 6 in 4 rolls.       
+\# Experiment: roll 1 die 4 times and check for a 6.        
 \# Repeat the experiment 10 times and see what fraction of times this happens.
 
 ```c
@@ -186,7 +186,7 @@ Allowing repeated elements    
 
 \# Command 4: Display y
 
-\# Command 5: Sum each of the columns. The result is then number of 6's in each      
+\# Command 5: Sum each of the columns. The result is then number of 6's in each       
 trial (column).
 
 \# Command 6: Display z
@@ -229,9 +229,9 @@ of 7 when rolling two dice.&nbsp;&nbsp;
 [1] 0.1658
 ```
 
-\# Command 1: We assign the number of trials to the variable ntrials. Writing code like this makes it easier to modify later. If we want to change the number of trials to 7 we just have to change this one line of code.      
-\# Command 2: we create 10000 columns with 2 rows. That is, we run 10000 experiments of rolling 2 dice.      
-\# Command 3: we sum each of the columns, i.e., we sum the two dice.      
+\# Command 1: We assign the number of trials to the variable ntrials. Writing code like this makes it easier to modify later. If we want to change the number of trials to 7 we just have to change this one line of code.       
+\# Command 2: we create 10000 columns with 2 rows. That is, we run 10000 experiments of rolling 2 dice.       
+\# Command 3: we sum each of the columns, i.e., we sum the two dice.       
 \# Command 4: we find the fraction of sums that are 7.
 
 \# Note, this is essentially the exact answer of 1/6.
