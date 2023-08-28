@@ -11,7 +11,7 @@ We estimate this tutorial (a and b) will take 20-30 minutes. That includes time 
 
 ## Conventions
 
-\# This is an edited transcript of a R session.      
+\# This is an edited transcript of a R session.       
 \# We've inserted comment lines, which begin with a '#',
 
 *Command lines* begin with a '>'. You should enter everything after the '>' and hit return. R's response will be in the line or lines below the command.
@@ -49,7 +49,7 @@ If you've installed R and RStudio then simply start the RStudio application. The
 
 Don't worry for now about the \[ 1 \]. It will play more of a role when R is printing numbers in a list.
 
-### Using Variables
+## Using Variables
 
 \# You can store results in variables and use them in calculations.
 
@@ -74,9 +74,9 @@ Don't worry for now about the \[ 1 \]. It will play more of a role when R is pri
 [1] 5.412
 ```
 
-### Vectors
+## Vectors
 
-\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.      
+\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.       
 \# You create vectors by using the c( ) function.
 
 ```c
@@ -110,7 +110,7 @@ the start of each line in brackets is the index of the first entry on that line.
  [29] 29 30 31 32 33 34 35 36 37 38 39 40
 ```
 
-### Vector Arithmetic
+## Vector Arithmetic
 
 \# You can add a number to a vector. This means adding the number to every element of the vector.
 
@@ -135,10 +135,10 @@ the start of each line in brackets is the index of the first entry on that line.
 [1]     7   343 16807
 ```
 
-\# You can add, subtract, multiply and divide vectors of *the same size.*      
+\# You can add, subtract, multiply and divide vectors of *the same size.*       
 \# Check that the following give the right answers.> x = c(1,2,3) ≫ y = c(4,5,6) > x+y \[1\] 5 7 9 > x-y \[1\] -3 -3 -3 > z = x\*y > z \[1\]  4 10 18 > z = x/y > z \[1\] 0.25 0.40 0.50 # You can even raise a vector to another vector of the same length > x^y \[1\]   1  32 729
 
-### Accessing entries in a vector.
+## Accessing entries in a vector
 
 ```c
 # Entries in vectors are found with the notation x[j]
@@ -170,7 +170,7 @@ the start of each line in brackets is the index of the first entry on that line.
 [1]  4  6  8 10
 ```
 
-### Functions on Vectors
+## Functions on Vectors
 
 R has all the functions you know and love. Most of them can be used on vectors.
 
@@ -231,7 +231,7 @@ R has all the functions you know and love. Most of them can be used on vectors.
 [1] 524800
 ```
 
-### A few more examples with powers
+## A few more examples with powers
 
 ```c
 # Example: find the sum of the squares of the integers from 1 to 1024.
@@ -244,7 +244,7 @@ R has all the functions you know and love. Most of them can be used on vectors.
 [1] 358438400
 ```
 
-### Matrices
+## Matrices
 
 \# R's method of creating matrices is a little bit clunky. It works by arranging the entries in a vector into rows and columns.
 
@@ -279,7 +279,7 @@ a 2x5 or a 5x2 matrix
 [2,]    6    7    8    9   10
 ```
 
-### Accessing Entries in Matrices
+## Accessing Entries in Matrices
 
 \# The square bracket notation is used by giving both the row and column indices.
 
@@ -296,7 +296,7 @@ a 2x5 or a 5x2 matrix
 [1] 6
 ```
 
-### Sums and Means on Matrices
+## Sums and Means on Matrices
 
 \# Taking the sums or means of the columns (or rows) of a matrix will be very useful to us.
 
@@ -331,7 +331,7 @@ a 2x5 or a 5x2 matrix
 [1] 1.5 3.5 5.5 7.5 9.5
 ```
 
-### Getting Help
+## Getting Help
 
 ```c
 # R and RStudio have complete documentation on all R functions. The lower right window in RStudio has a help tab you can use. The help contains a lot of information, so you will have to learn to filter out what you don't need.
