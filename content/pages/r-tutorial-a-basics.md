@@ -11,7 +11,7 @@ We estimate this tutorial (1A and 1B) will take 20-30 minutes. That includes tim
 
 ## Conventions
 
-\# This is an edited transcript of a R session.     
+\# This is an edited transcript of a R session.      
 \# We've inserted comment lines, which begin with a '#',
 
 *Command lines* begin with a '>'. You should enter everything after the '>' and hit return. R's response will be in the line or lines below the command.
@@ -34,28 +34,37 @@ If you've installed R and RStudio then simply start the RStudio application.The 
 
 \# The basic operations are \*,+,-,/,^.
 
-\> 2+3   
-\[1\] 5   
-\> 2\*3   
-\[1\] 6   
-\> 2/3   
-\[1\] 0.6666667   
-\> 2^3   
-\[1\] 8   
-\> 2\*(3+1)^2   
+\> 2+3    
+\[1\] 5    
+\> 2\*3    
+\[1\] 6    
+\> 2/3    
+\[1\] 0.6666667    
+\> 2^3    
+\[1\] 8    
+\> 2\*(3+1)^2    
 \[1\] 32    
 
-Don't worry for now about the `[1]`. It will play more of a role when R is printing numbers in a list.
+Don't worry for now about the \[1\]. It will play more of a role when R is printing numbers in a list.
 
 ## Using Variables
 
 \# You can store results in variables and use them in calculations.
 
-\> x = 2+3 # When you assign a value to a variable it does not echo the answer to the screen. You can see the value of `x` by just using `x` as a command. >print(x) \[1\] 5 > y = 1+2 > print(x\*y) \[1\] 15 > z = x^y > print(z) \[1\] 125 # R has another notation for assignment: the arrow: `<-` . Many R programmers use this. It may seem odd to programmers coming from other languages. > x \<- 3 > print(x) \[1\] 3 > x \<- 5.412 > print(x) \[1\] 5.412    
+\> x = 2+3   
+\# When you assign a value to a variable it does not echo the answer to the screen. You can see the value of x by just using x as a command.  
+\>print(x)  
+\[1\] 5  
+\> y = 1+2  
+\> print(x\*y)  
+\[1\] 15  
+\> z = x^y  
+\> print(z)  
+\[1\] 125   
 
 ## Vectors
 
-\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.     
+\# A vector is a type of list. Often it is a list of numbers, but it can be a list of other types such as characters.      
 \# You create vectors by using the `c()` function.
 
 \# A vector with 4 entries # (Of course, you can store vectors in variables.) > x = c(1.1, 0.0, 3.14, 2.718) > print(x) \[1\] 1.100 0.000 3.140 2.718 # Of course using the arrow instead of equal sign works here. > x \<- c(2,4,6) > print(x) \[1\] 2 4 6 # Sequences of integers are so common that there is a shortcut for making them. > x = 1:4 > print(x) \[1\] 1 2 3 4 > x = 3:10 > print(x) \[1\]  3  4  5  6  7  8  9 10 > x = 9:2 > print(x) \[1\] 9 8 7 6 5 4 3 2 # A long vector will be displayed over several lines. At the start of each line in brackets is the index of the first entry on that line. > x = 1:40 > print(x) \[1\]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 \[15\] 15 16 17 18 19 20 21 22 23 24 25 26 27 28 \[29\] 29 30 31 32 33 34 35 36 37 38 39 40    
@@ -66,7 +75,7 @@ Don't worry for now about the `[1]`. It will play more of a role when R is print
 
 \> x = c(1, 3, 5) > y = x + 7.1 > print(y) \[1\]  8.1 10.1 12.1 # Subtraction, multiplication, division and powers work the same way. > x = c(1, 3, 5) > y = 7\*x > print(y) \[1\]  7 21 35 > y = x/7 > print(y) \[1\] 0.1428571 0.4285714 0.7142857 > y = 7/x > print(y) \[1\] 7.000000 2.333333 1.400000 > y = x^6 > print(y) \[1\]     1   729 15625 > y = x^7 > print(y) \[1\]     1  2187 78125 > y = 7^x > print(y) \[1\]     7   343 16807    
 
-\# You can add, subtract, multiply and divide vectors of *the same size.*     
+\# You can add, subtract, multiply and divide vectors of *the same size.*      
 \# Check that the following give the right answers.
 
 \> x = c(1, 2, 3) > y = c(4, 5, 6) > print(x + y) \[1\] 5 7 9 > print(x - y) \[1\] -3 -3 -3 > z = x\*y > print(z) \[1\]  4 10 18 > z = x/y > print(z) \[1\] 0.25 0.40 0.50 # You can even raise a vector to another vector of the same length > print(x^y) \[1\]   1  32 729    
