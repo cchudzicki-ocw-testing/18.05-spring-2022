@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This section provides R tutorial about random numbers
+description: This section provides R tutorial about random numbers.
 draft: false
 title: 'R Tutorial b: Random Numbers'
 uid: caf11256-bc50-4551-95a6-70ae98b5918a
